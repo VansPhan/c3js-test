@@ -1,5 +1,5 @@
 # c3js_test
-Testing out c3js with league of legends match history csv files.
+Testing out c3js with league of legends match history csv files. <br>
 So far I am comparing 2 players' highest damage per game.
 
 Preview:
